@@ -1,6 +1,6 @@
 ﻿# mobile_workshop
 
 
-## Slicing Introduction_UI
-https://github.com/MhdAmir/mobile_workshop/assets/113128270/446b9927-b741-403f-933a-cb3f1658ce71
+## Demo Introduction_UI
 
+![2024-04-1001-19-37-ezgif com-crop](https://github.com/MhdAmir/mobile_workshop/assets/113128270/e0b28fb2-2229-4cdf-960a-6db9a288799b)
